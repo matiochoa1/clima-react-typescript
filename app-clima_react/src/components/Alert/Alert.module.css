@@ -1,0 +1,11 @@
+.error {
+	text-align: center;
+	margin: 1rem 0;
+	color: var(--white);
+	background-color: rgb(220, 38, 38);
+	font-weight: 700;
+	padding: 2rem;
+	font-size: 1.4rem;
+	text-transform: uppercase;
+	line-height: 2rem;
+}
